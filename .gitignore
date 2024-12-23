@@ -1,0 +1,8 @@
+node_modules/
+
+.cypress/
+
+package-lock.json
+pnpm-lock.yaml
+
+.vscode/
